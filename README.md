@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carnage52S
 - 👀 I’m interested in cybersecurity and information security
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on education
 - 📫 How to reach me carnage5252@gmail.com
 - 😄 Pronouns: he/him
